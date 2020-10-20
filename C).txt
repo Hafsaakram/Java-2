@@ -1,0 +1,10 @@
+class while
+{
+public static void main(string arg[])
+{
+int n=2;
+while (n>0);
+System.out.println(n);
+n--;
+}
+}
